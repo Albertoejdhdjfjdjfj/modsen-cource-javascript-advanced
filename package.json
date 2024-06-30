@@ -1,0 +1,24 @@
+{
+  "name": "modsen-cource-javascript-advanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albertoejdhdjfjdjfj/modsen-cource-javascript-advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albertoejdhdjfjdjfj/modsen-cource-javascript-advanced/issues"
+  },
+  "homepage": "https://github.com/Albertoejdhdjfjdjfj/modsen-cource-javascript-advanced#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
